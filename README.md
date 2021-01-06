@@ -8,7 +8,7 @@ I looked for this specifically so that I could host this thing somewhere, to mak
 
 And here's some bullet points from the suggested template for this document:
 
-- 🔭 I’m currently working on; CodeSpyGlass
+- 🔭 I’m currently working on: CodeSpyGlass
 - 🌱 I’m currently learning: TypeScript with React
 - 👯 I’m looking to collaborate on: Anything that makes people's lives more wonderful
 - 🤔 I’m looking for help with: Customer discovery, marketing and sales
