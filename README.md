@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**robmoore-i/robmoore-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a cool GitHub feature, you can read about it here: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 
-Here are some ideas to get you started:
+I looked for this specifically so that I could host this thing somewhere, to make me seem very smart and cool:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](https://projecteuler.net/profile/robknows.png "Project Euler Badge")
+
+And here's some bullet points from the suggested template for this document:
+
+- 🔭 I’m currently working on; CodeSpyGlass
+- 🌱 I’m currently learning: TypeScript with React
+- 👯 I’m looking to collaborate on: Anything that makes people's lives more wonderful
+- 🤔 I’m looking for help with: Customer discovery, marketing and sales
+- 💬 Ask me about: Build and deployment automation, backend engineering, scalable, resilient microservice architecture
+- 📫 How to reach me: Raise a random issue somewhere and say hey
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I train and compete in Muay Thai
