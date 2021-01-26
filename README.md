@@ -6,10 +6,4 @@ Here is my Project Euler summary:
 
 ![alt text](https://projecteuler.net/profile/robknows.png "Project Euler Badge")
 
-Here are some FAQs:
-
-- 🔭 I’m currently working on: Tools for helping engineers who have marketing problems to make their value more transparent.
-- 🌱 I’m currently learning: TypeScript with React
-- 👯 I’m looking to collaborate on: Anything that makes life more wonderful for people
-- 🤔 I’m looking for help with: Customer discovery, marketing and sales
-- 💬 Ask me about: Build and deployment automation, backend engineering, and scalable, resilient microservice architecture.
+Mostly, I enjoy making tools. The two kinds of tools I love most are (a) developer tools (b) language learning tools.
